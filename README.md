@@ -7,5 +7,5 @@
 - 💬 Ask me about any Flutter, Hadoop, Spark
 - 📫 How to reach me: 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can 
 -->
